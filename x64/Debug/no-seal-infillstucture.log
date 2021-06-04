@@ -1,0 +1,6 @@
+﻿  test_clipper.cpp
+d:\repos\no-seal-infillstucture\no-seal-infillstucture\test_clipper.cpp(22): warning C4326: “main”的返回类型应为“int”而非“void”
+test_clipper.obj : error LNK2019: 无法解析的外部符号 __imp__invalid_parameter，该符号在函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 中被引用
+test_clipper.obj : error LNK2019: 无法解析的外部符号 __imp__CrtDbgReport，该符号在函数 "void * __cdecl std::_Allocate_manually_vector_aligned<struct std::_Default_allocate_traits>(unsigned __int64)" (??$_Allocate_manually_vector_aligned@U_Default_allocate_traits@std@@@std@@YAPEAX_K@Z) 中被引用
+clipper.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+D:\repos\no-seal-infillstucture\x64\Debug\no-seal-infillstucture.exe : fatal error LNK1120: 2 个无法解析的外部命令
